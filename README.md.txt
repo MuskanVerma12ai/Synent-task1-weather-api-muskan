@@ -34,4 +34,4 @@ Weather-App/
 └── report/
 
 ## Author
-Sheetal Verma
+Muskan Verma
