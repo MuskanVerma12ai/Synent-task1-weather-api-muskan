@@ -1,7 +1,7 @@
 
 import requests
 
-API_KEY = "2945e66e6224bbfa66b11c397a13a301"  # Replace with your OpenWeatherMap API key
+API_KEY = "your api key"  # Replace with your OpenWeatherMap API key
 
 # ==========================
 # FUNCTIONS
